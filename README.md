@@ -11,7 +11,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/ishandutta2007/Awesome-Contract-Analytics-Intelligence-Engine/pulls)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/ishandutta2007/Awesome-Contract-Analytics-Intelligence-Engine/graphs/commit-activity)
-[![GitHub Stars](https://img.shields.io/github/stars/ishandutta2007/Awesome-Contract-Analytics-Intelligence-Engine?style=flat-square&logo=github)](https://github.com/ishandutta2007/Awesome-Contract-Analytics-Intelligence-Engine/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/ishandutta2007/Awesome-Contract-Analytics-Intelligence-Engine?style=flat-square&logo=github)](https://github.com/ishandutta2007/Awesome-Contract-Analytics-Intelligence-Engine/stargazers)
 <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 
 **A comprehensive, SEO-optimized curated index of enterprise SaaS platforms, open-source repositories, legal LLMs, and contract intelligence engines.**  
@@ -81,9 +81,9 @@ The table below catalogs premier commercial contract intelligence engines, sorte
 
 ## 💻 Open-Source GitHub Projects
 
-Explore top community-driven, self-hosted, and transparent contract intelligence tools. The table below is sorted descending by **GitHub Stars**.
+Explore top community-driven, self-hosted, and transparent contract intelligence tools. The table below is sorted descending by **GitHub_Stars**.
 
-| Project | Stars | Focus & Capabilities |
+| Project | GitHub_Stars | Focus & Capabilities |
 |:---|:---|:---|
 | **[CUAD (The Atticus Project)](https://github.com/The-Atticus-Project/cuad)** | [![Stars](https://img.shields.io/github/stars/The-Atticus-Project/cuad?style=social&color=white)](https://github.com/The-Atticus-Project/cuad/stargazers) | 🏆 Seminal NeurIPS benchmark dataset and models containing 13,000+ annotations across 41 contract clause classes. Foundational for training custom legal clause extractors. |
 | **[claude-legal-skill](https://github.com/evolsb/claude-legal-skill)** | [![Stars](https://img.shields.io/github/stars/evolsb/claude-legal-skill?style=social&color=white)](https://github.com/evolsb/claude-legal-skill/stargazers) | 🤖 Agent skill for contract review, CUAD-based risk scoring, market benchmarks, and automated lawyer-ready redlines compatible with Claude Code, Cursor, and Codex. |
@@ -131,7 +131,7 @@ We welcome community contributions from legal ops teams, legaltech founders, and
 
 1. **Fork** the repository.
 2. Create a descriptive feature branch: `git checkout -b feat/add-new-tool`.
-3. Add the project to `README.md` maintaining table formatting, pricing details, and star badges.
+3. Add the project to `README.md` maintaining table formatting, pricing details, and Stars_Badges.
 4. Verify all hyperlinks and test markdown formatting.
 5. Commit your changes and open a **Pull Request** detailing why the tool belongs on the list.
 
