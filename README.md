@@ -1,6 +1,6 @@
 # Awesome-Contract-Analytics-Intelligence-Engine
 
-# Top Contract Analytics & Intelligence Engine Ecosystem
+## Top Contract Analytics & Intelligence Engine Ecosystem
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**  
 *Focused on Clause Extraction, Portfolio Risk Analytics & Obligation Intelligence*  
